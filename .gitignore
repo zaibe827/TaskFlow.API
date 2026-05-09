@@ -1,0 +1,24 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Node
+**/node_modules/
+**/dist/
+
+# dotnet tooling
+.dotnet/
+
+# Secrets
+**/appsettings.*.json.user
+**/secrets.json
+
+# Sensitive appsettings
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
