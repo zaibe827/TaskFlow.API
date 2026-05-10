@@ -49,11 +49,6 @@ If you run API via `dotnet run`, use `http://localhost:5078`.
 
 ## Quick API summary
 
-- `POST /api/auth/register`
-- `POST /api/auth/login`
-- `POST /api/auth/refresh`
-- `GET /api/todos` (auth)
-- `POST /api/todos` (auth)
-- `PUT /api/todos/{id}` (auth)
-- `DELETE /api/todos/{id}` (auth)
+- ` Contain Endpoints wiht GET, POST, PUT and DELETE`
+
 
